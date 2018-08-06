@@ -1,0 +1,7 @@
+<instance design="debug" hier_name="runtime.design_manager" name="design_manager" type="aw_infra.TDesignManager">
+	<instance hier_name="runtime.design_manager.top" name="top" port_count="0" type="awt_tcdx_baseline.TTcdxBaselineTop">
+		<instance hier_name="runtime.design_manager.top.inst_orig[2]" name="inst_orig[2]" port_count="1" type="awd_orig_cmpl.TFtiOriginator">
+			<port direction="source" port_name="fti_out"><gui direct="output" height="30.0" top="true" visible="true" width="30.0" x="0.0" xPos="241.26182965299688" y="0.0" yPos="-15.0">fti_out:top pos</gui><gui direct="output" height="30.0" top="true" visible="true" width="30.0" x="0.0" xPos="241.26182965299688" y="0.0" yPos="-15.0">fti_out:top pos</gui><gui top="false">fti_out:child pos</gui></port>
+		<gui height="300.0" top="true" visible="true" width="500.0" x="0.0" xPos="85.80441640378552" y="0.0" yPos="92.55696202531651">inst_orig[2]:top pos</gui><gui height="300.0" top="true" visible="true" width="500.0" x="0.0" xPos="85.80441640378552" y="0.0" yPos="92.55696202531651">inst_orig[2]:top pos</gui><gui top="false">inst_orig[2]:child pos</gui></instance>
+	<gui top="true">top:top pos</gui><gui top="true">top:top pos</gui><gui top="false">top:child pos</gui></instance>
+</instance>

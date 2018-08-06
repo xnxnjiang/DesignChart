@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="image">
+    <file>icon/module.png</file>
+    <file>icon/link.png</file>
+    <file>icon/channel.png</file>
+  </qresource>
+</RCC>
